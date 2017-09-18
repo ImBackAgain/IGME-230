@@ -2,7 +2,7 @@
 ## I. High concept
 Yeah, I'm using the template pretty exactly.
 
-[2048](2048.com)'s many variations include hexagonal and triangular ones &ndash; but even Tri2048 kept me engaged only for so long. Hence, The Tenth Power: 2048 for short attention spans!
+[2048](2048.com)'s many variations include hexagonal and triangular ones &ndash; but even Tri2048 kept me engaged only for so long. Hence, Powers! 2048 for short attention spans.
 
 ## II. Genre
 Down to the numbering style in the headings.
